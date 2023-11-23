@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/osqp_test1.dir/src/osqp/osqp_test1.cpp.o -o osqp_test1   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libOsqpEigen.so.0.8.1 /usr/local/lib/libosqp.so 
